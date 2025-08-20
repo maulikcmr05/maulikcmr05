@@ -1,5 +1,16 @@
-# 👋 Hi there, I'm Maulik Chothani  
+<!-- Stylish Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Maulik+Chothani;MSc+Data+Science+Student;Aspiring+AI+Researcher+%7C+Quant;Passionate+about+ML,+DL,+Finance" />
+</p>
+
+---
+
+# 👨‍💻 About Me
 🎓 MSc Data Science Student @ Jain University  
 💡 Aspiring AI Researcher & Quant | Passionate about Machine Learning, Deep Learning & Quantitative Finance  
 
@@ -32,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats (with gradient background)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
