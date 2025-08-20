@@ -32,17 +32,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (with gradient background)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
 </p>
 
 ---
 
-## 🔥 Streak & Activity
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maulikcmr05&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=maulikcmr05&theme=highcontrast&background=141E30&ring=58A6FF&fire=FF4500&currStreakLabel=FFFFFF" />
 </p>
 
 ---
