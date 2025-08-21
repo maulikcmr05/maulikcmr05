@@ -1,10 +1,7 @@
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=35&font=Fira%20Code"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&font=Poppins"/>
 </p>
-
-
-
 
 
 
