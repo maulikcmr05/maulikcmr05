@@ -1,7 +1,14 @@
 <!-- Stylish Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=AI%20Researcher%20%7C%20Quant&descAlign=50&descAlignY=55&descSize=20&descColor=FFFFFF"/>
-</p>
+<h1 align="center">
+  <span style="font-size: 48px; 
+               background: linear-gradient(90deg, #58A6FF, #00C9A7); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent; 
+               font-weight: bold; 
+               text-shadow: 2px 2px 10px rgba(0,0,0,0.6);">
+    Maulik Chothani
+  </span>
+</h1>
 
 <!-- Animated Typing Effect -->
 <p align="center">
