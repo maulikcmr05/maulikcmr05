@@ -1,14 +1,8 @@
 <!-- Stylish Banner -->
-<h1 align="center">
-  <span style="font-size: 48px; 
-               background: linear-gradient(90deg, #58A6FF, #00C9A7); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent; 
-               font-weight: bold; 
-               text-shadow: 2px 2px 10px rgba(0,0,0,0.6);">
-    Maulik Chothani
-  </span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=⚡%20Maulik%20Chothani%20⚡&fontSize=55&fontColor=58A6FF&fontAlignY=35&animation=twinkling&fontAlign=50&desc=AI%20Researcher%20|%20Quant%20Enthusiast&descAlign=50&descAlignY=55&descSize=18"/>
+</p>
+
 
 <!-- Animated Typing Effect -->
 <p align="center">
