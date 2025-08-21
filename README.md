@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&font=Poppins"/>
 </p>
 
-
-
-
-
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Maulik+Chothani;MSc+Data+Science+Student;Aspiring+AI+Researcher+%7C+Quant;Passionate+about+ML,+DL,+Finance" />
@@ -72,6 +68,25 @@
 - Advanced **Machine Learning & Deep Learning Architectures**  
 - **Quantitative Finance & Algorithmic Trading**  
 - **Research in AI + Data Science**  
+
+---
+
+## 🧭 AI Research & Quant Journey Roadmap  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Phase-1%20%7C%20Foundations-243B55?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phase-2%20%7C%20Machine%20Learning-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phase-3%20%7C%20Deep%20Learning-243B55?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phase-4%20%7C%20Quantitative%20Finance-0D1117?style=for-the-badge&logo=quantconnect&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phase-5%20%7C%20AI%20Researcher-243B55?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 📌 Milestones  
+- ✅ **Foundations:** Python, R, SQL, Statistics, Linear Algebra, Probability  
+- ✅ **Machine Learning:** Regression, Classification, Ensemble Methods, Feature Engineering  
+- 🚀 **Deep Learning:** Neural Nets, CNNs, RNNs, Transformers, LLMs  
+- 📊 **Quantitative Finance:** Algorithmic Trading, Risk Modeling, Derivatives, Portfolio Optimization  
+- 🎯 **Future Goal:** Publish Research Papers + Secure Global Role as **AI Researcher / Quant**  
 
 ---
 
