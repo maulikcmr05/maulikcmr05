@@ -90,6 +90,28 @@
 
 ---
 
+---
+
+## 📅 Study Timetable  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Weekly%20Planner-Study%20Routine-58A6FF?style=for-the-badge&logo=todoist&logoColor=white" />
+</p>
+
+| Day       | Focus Area 🚀 | Time ⏰ | Notes 📌 |
+|-----------|--------------|---------|----------|
+| Monday    | **Machine Learning** | 7 PM – 10 PM | Work on algorithms & Kaggle problems |
+| Tuesday   | **Deep Learning** | 7 PM – 10 PM | Neural nets + PyTorch practice |
+| Wednesday | **Quant Finance** | 7 PM – 10 PM | Learn trading strategies & math models |
+| Thursday  | **AI Research Reading** | 7 PM – 10 PM | Read papers & summarize |
+| Friday    | **Projects / GitHub** | 7 PM – 11 PM | Build + commit projects |
+| Saturday  | **Statistics & Maths** | 4 PM – 8 PM | Probability, linear algebra revision |
+| Sunday    | **Review + Relax** | Flexible | Recap + Plan next week |
+
+---
+
+
+
 ## 🌐 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/maulik-chothani-aa82a5345" target="_blank">
