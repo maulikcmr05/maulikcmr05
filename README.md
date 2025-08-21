@@ -89,26 +89,38 @@
 - 🎯 **Future Goal:** Publish Research Papers + Secure Global Role as **AI Researcher / Quant**  
 
 ---
-
 ---
 
-## 📅 Study Timetable  
+## 🎯 9 CGPA Study Timetable  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Weekly%20Planner-Study%20Routine-58A6FF?style=for-the-badge&logo=todoist&logoColor=white" />
+  <img src="https://img.shields.io/badge/Target-CGPA%209.0%2B-FFD700?style=for-the-badge&logo=target&logoColor=black" />
 </p>
 
 | Day       | Focus Area 🚀 | Time ⏰ | Notes 📌 |
 |-----------|--------------|---------|----------|
-| Monday    | **Machine Learning** | 7 PM – 10 PM | Work on algorithms & Kaggle problems |
-| Tuesday   | **Deep Learning** | 7 PM – 10 PM | Neural nets + PyTorch practice |
-| Wednesday | **Quant Finance** | 7 PM – 10 PM | Learn trading strategies & math models |
-| Thursday  | **AI Research Reading** | 7 PM – 10 PM | Read papers & summarize |
-| Friday    | **Projects / GitHub** | 7 PM – 11 PM | Build + commit projects |
-| Saturday  | **Statistics & Maths** | 4 PM – 8 PM | Probability, linear algebra revision |
-| Sunday    | **Review + Relax** | Flexible | Recap + Plan next week |
+| Monday    | **Machine Learning (Theory + Practice)** | 7:30 PM – 10:30 PM | Class notes revise + Kaggle practice |
+| Tuesday   | **Deep Learning** | 7:30 PM – 10:30 PM | Implement small neural nets, write clear notes |
+| Wednesday | **Quantitative Finance** | 7:30 PM – 10:30 PM | Math + Python finance models |
+| Thursday  | **Research + Paper Reading** | 7:30 PM – 10:30 PM | Summarize 1 paper → 1-page notes |
+| Friday    | **Assignments + Projects** | 7:30 PM – 11:00 PM | Submit before deadline, push to GitHub |
+| Saturday  | **Revision Day** | 10:00 AM – 1:00 PM & 7:00 PM – 10:00 PM | Revise week topics + past exam papers |
+| Sunday    | **Full Mock Practice** | 10:00 AM – 2:00 PM | Solve old papers, write timed answers |
 
 ---
+
+✅ **Daily Routine (College Pachhi)**  
+- 5:30 PM – 7:00 PM → Dinner + Rest + Walk  
+- 7:30 PM – 10:30 PM → Core study (strict focus, no phone)  
+- 10:30 PM – 11:00 PM → Quick Revision (make short notes for exams)  
+
+📌 **Extra Tips for 9 CGPA**  
+- Every day **30 min recap before sleeping** → boost retention.  
+- Weekly (Sunday) → prepare **short notes / flashcards**.  
+- Last 1 month before exams → **switch 80% focus to revision & past papers**.  
+
+---
+
 
 
 
