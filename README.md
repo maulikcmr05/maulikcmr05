@@ -1,7 +1,8 @@
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=⚡%20Maulik%20Chothani%20⚡&fontSize=55&fontColor=58A6FF&fontAlignY=35&animation=twinkling&fontAlign=50&desc=AI%20Researcher%20|%20Quant%20Enthusiast&descAlign=50&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=220&section=header&text=👨‍💻%20Maulik%20Chothani%20👨‍💻&fontSize=52&fontColor=00E6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Quantitative%20Finance%20Enthusiast&descSize=18&descAlignY=60"/>
 </p>
+
 
 
 <!-- Animated Typing Effect -->
