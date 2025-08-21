@@ -88,8 +88,7 @@
 - 📊 **Quantitative Finance:** Algorithmic Trading, Risk Modeling, Derivatives, Portfolio Optimization  
 - 🎯 **Future Goal:** Publish Research Papers + Secure Global Role as **AI Researcher / Quant**  
 
----
----
+------
 
 ## 🎯 9 CGPA Study Timetable  
 
@@ -99,28 +98,29 @@
 
 | Day       | Focus Area 🚀 | Time ⏰ | Notes 📌 |
 |-----------|--------------|---------|----------|
-| Monday    | **Machine Learning (Theory + Practice)** | 7:30 PM – 10:30 PM | Class notes revise + Kaggle practice |
-| Tuesday   | **Deep Learning** | 7:30 PM – 10:30 PM | Implement small neural nets, write clear notes |
-| Wednesday | **Quantitative Finance** | 7:30 PM – 10:30 PM | Math + Python finance models |
-| Thursday  | **Research + Paper Reading** | 7:30 PM – 10:30 PM | Summarize 1 paper → 1-page notes |
-| Friday    | **Assignments + Projects** | 7:30 PM – 11:00 PM | Submit before deadline, push to GitHub |
-| Saturday  | **Revision Day** | 10:00 AM – 1:00 PM & 7:00 PM – 10:00 PM | Revise week topics + past exam papers |
+| Monday    | **Machine Learning (Theory + Practice)** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Class notes revise + Kaggle practice |
+| Tuesday   | **Deep Learning** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Implement small neural nets, write clear notes |
+| Wednesday | **Quantitative Finance** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Math + Python finance models |
+| Thursday  | **Research + Paper Reading** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Summarize 1 paper → 1-page notes |
+| Friday    | **Assignments + Projects** | 6:00 PM – 8:00 PM, 9:00 PM – 11:00 PM | Submit before deadline, push to GitHub |
+| Saturday  | **Revision Day** | 10:00 AM – 1:00 PM & 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Revise week topics + past exam papers |
 | Sunday    | **Full Mock Practice** | 10:00 AM – 2:00 PM | Solve old papers, write timed answers |
 
 ---
 
-✅ **Daily Routine (College Pachhi)**  
-- 5:30 PM – 7:00 PM → Dinner + Rest + Walk  
-- 7:30 PM – 10:30 PM → Core study (strict focus, no phone)  
-- 10:30 PM – 11:00 PM → Quick Revision (make short notes for exams)  
+✅ **Daily Hostel Routine (College Pachhi)**  
+- 5:30 PM – 6:00 PM → Light snack + relax  
+- 6:00 PM – 8:00 PM → **Focused study**  
+- 8:00 PM – 9:00 PM → **Dinner (Hostel)**  
+- 9:00 PM – 10:30 PM → **Deep study / coding**  
+- 10:30 PM – 11:00 PM → Quick **revision / flashcards**  
 
 📌 **Extra Tips for 9 CGPA**  
-- Every day **30 min recap before sleeping** → boost retention.  
-- Weekly (Sunday) → prepare **short notes / flashcards**.  
-- Last 1 month before exams → **switch 80% focus to revision & past papers**.  
+- Hostel ma group-study time ek vaar week ma use kar (doubt clear karva).  
+- Every Sunday → short notes prepare kar.  
+- Exam na 1 mahina pela → **past papers + revision** priority.  
 
 ---
-
 
 
 
