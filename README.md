@@ -1,7 +1,8 @@
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=220&section=header&text=🧠%20Maulik%20Chothani%20🧠&fontSize=50&fontColor=39FF14&animation=scaleIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Quant&descSize=17&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=00E6FF&animation=fadeIn&fontAlignY=35&font=Roboto%20Mono"/>
 </p>
+
 
 
 
