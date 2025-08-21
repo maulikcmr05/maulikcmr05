@@ -1,6 +1,6 @@
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=AI%20Researcher%20%7C%20Quant&descAlign=50&descAlignY=55&descSize=20&descColor=FFFFFF"/>
 </p>
 
 <!-- Animated Typing Effect -->
