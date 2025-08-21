@@ -6,6 +6,7 @@
 
 
 
+
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Maulik+Chothani;MSc+Data+Science+Student;Aspiring+AI+Researcher+%7C+Quant;Passionate+about+ML,+DL,+Finance" />
