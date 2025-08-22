@@ -1,9 +1,15 @@
-<!-- Stylish Banner -->
+<!-- Responsive Stylish Banner (Light + Dark) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&font=Poppins"/>
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&font=Poppins"/>
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F0F3F6,100:9EB1C7&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=0D1117&animation=fadeIn&fontAlignY=35&font=Poppins"/>
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:243B55&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&font=Poppins"/>
+  </picture>
 </p>
 
-<!-- Animated Typing Effect -->
+<!-- Animated Typing Effect (works on both themes) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Maulik+Chothani;MSc+Data+Science+Student;Aspiring+AI+Researcher+%7C+Quant;Passionate+about+ML,+DL,+Finance" />
 </p>
@@ -51,15 +57,33 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=radical&bg_color=0D1117,141E30,243B55&title_color=58A6FF&text_color=FFFFFF" height="180px"/>
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=radical&bg_color=00000000&hide_border=true"/>
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=default&bg_color=00000000&hide_border=true"/>
+    <img height="180px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=maulikcmr05&show_icons=true&theme=radical&bg_color=00000000&hide_border=true"/>
+  </picture>
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=radical&bg_color=00000000&hide_border=true"/>
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=default&bg_color=00000000&hide_border=true"/>
+    <img height="180px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikcmr05&layout=compact&theme=radical&bg_color=00000000&hide_border=true"/>
+  </picture>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maulikcmr05&theme=highcontrast&background=141E30&ring=58A6FF&fire=FF4500&currStreakLabel=FFFFFF" />
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=maulikcmr05&theme=highcontrast&hide_border=true&background=00000000"/>
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=maulikcmr05&theme=default&hide_border=true&background=00000000"/>
+    <img alt="Streak" src="https://streak-stats.demolab.com?user=maulikcmr05&theme=highcontrast&hide_border=true&background=00000000"/>
+  </picture>
 </p>
 
 ---
@@ -116,13 +140,11 @@
 - 10:30 PM – 11:00 PM → Quick **revision / flashcards**  
 
 📌 **Extra Tips for 9 CGPA**  
-- Hostel ma group-study time ek vaar week ma use kar (doubt clear karva).  
+- Hostel ma group-study time ek vaar week ma use kar.  
 - Every Sunday → short notes prepare kar.  
 - Exam na 1 mahina pela → **past papers + revision** priority.  
 
 ---
-
-
 
 ## 🌐 Connect with me  
 <p align="center">
@@ -142,7 +164,13 @@
 
 ---
 
-<!-- Footer Banner -->
+<!-- Responsive Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:0D1117&height=120&section=footer"/>
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:0D1117&height=120&section=footer"/>
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F0F3F6,100:C7D3E0&height=120&section=footer"/>
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:0D1117&height=120&section=footer"/>
+  </picture>
 </p>
