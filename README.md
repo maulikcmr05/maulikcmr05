@@ -1,3 +1,4 @@
+
 <!-- Stylish Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:58A6FF&height=200&section=header&text=Maulik%20Chothani&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&font=Poppins"/>
