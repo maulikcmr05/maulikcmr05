@@ -91,37 +91,6 @@
 
 ------
 
-## 🎯 9 CGPA Study Timetable  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Target-CGPA%209.0%2B-FFD700?style=for-the-badge&logo=target&logoColor=black" />
-</p>
-
-| Day       | Focus Area 🚀 | Time ⏰ | Notes 📌 |
-|-----------|--------------|---------|----------|
-| Monday    | **Machine Learning (Theory + Practice)** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Class notes revise + Kaggle practice |
-| Tuesday   | **Deep Learning** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Implement small neural nets, write clear notes |
-| Wednesday | **Quantitative Finance** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Math + Python finance models |
-| Thursday  | **Research + Paper Reading** | 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Summarize 1 paper → 1-page notes |
-| Friday    | **Assignments + Projects** | 6:00 PM – 8:00 PM, 9:00 PM – 11:00 PM | Submit before deadline, push to GitHub |
-| Saturday  | **Revision Day** | 10:00 AM – 1:00 PM & 6:00 PM – 8:00 PM, 9:00 PM – 10:30 PM | Revise week topics + past exam papers |
-| Sunday    | **Full Mock Practice** | 10:00 AM – 2:00 PM | Solve old papers, write timed answers |
-
----
-
-✅ **Daily Hostel Routine (College Pachhi)**  
-- 5:30 PM – 6:00 PM → Light snack + relax  
-- 6:00 PM – 8:00 PM → **Focused study**  
-- 8:00 PM – 9:00 PM → **Dinner (Hostel)**  
-- 9:00 PM – 10:30 PM → **Deep study / coding**  
-- 10:30 PM – 11:00 PM → Quick **revision / flashcards**  
-
-📌 **Extra Tips for 9 CGPA**  
-- Hostel ma group-study time ek vaar week ma use kar (doubt clear karva).  
-- Every Sunday → short notes prepare kar.  
-- Exam na 1 mahina pela → **past papers + revision** priority.  
-
----
 
 ## 🌐 Connect with me  
 <p align="center">
